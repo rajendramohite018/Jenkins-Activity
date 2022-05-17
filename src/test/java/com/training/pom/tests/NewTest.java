@@ -6,6 +6,6 @@ public class NewTest {
 
 	@Test
 	public void displyaname() {
-		System.out.println("Successfully added name");
+		System.out.println("Successfully added name : Rajendra");
 	}
 }
